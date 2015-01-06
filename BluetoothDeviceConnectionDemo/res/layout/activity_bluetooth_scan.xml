@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    android:background="@color/caldroid_sky_blue"
+    android:orientation="vertical"
+    android:padding="10dp" >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:text="Sensor list"
+        android:textColor="@color/title_text_color"
+        android:textSize="@dimen/mmaglove_device_list_text_view_text_size"
+        android:layout_marginBottom="@dimen/mmaglove_device_list_text_view_margin_bottom"
+        android:textStyle="bold" />
+
+    <ListView
+        android:id="@+id/listViewDetected"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:divider="@drawable/separator"
+        android:background="@android:color/transparent" >
+    </ListView>
+
+</LinearLayout>

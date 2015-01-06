@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="list_selected_color">#000000</color>
+	<color name="white">#ffffff</color>
+	<color name="red_punch">#ED1C24</color>
+	<color name="black_overlay">#120102</color>
+	<color name="blue">#0072BC</color>
+	<color name="brown_bg">#140102</color>
+	<color name="grey">#959595</color>
+	<color name="dark_grey">#707070</color>
+    <color name="red">#9E0B0F</color>
+    <color name="darker_gray">#aaa</color>
+    <color name="summary_gray">#5D5D5D</color>
+    <color name= "content_text_color">#2091AD</color>
+    <color name= "title_text_color">#1ecdd2</color>
+
+    <color name="caldroid_sky_blue">#FFA3E8F7</color>
+    <color name="headinjury_label">#09a1c9</color>
+    <color name= "calendar_summary_details_text_color">#1C7B93</color>
+    <color name= "calendar_summary_data_value_color">#00F4FF</color>
+    <color name= "calendar_monthly_summary_text_color">#F7941E</color> 
+
+    <color name="per_concussion_criterion_text_color">#04AF8B</color> 
+    <color name="head_trauma_total_text_color">#EC1B45</color>
+    <color name="head_trauma_average_text_color">#00DEFD</color>
+    <color name="head_trauma_today_text_color">#0157AC</color>
+
+    <color name="head_trauma_today_color_in_graph">#085aac</color>
+    <color name="head_trauma_avg_color_in_graph">#02bdda</color>
+    
+    <color name="injury_and_concussion_today_text_color">#1863ad</color>
+    <color name="injury_and_concussion_avg_text_color">#04a9d8</color>
+    
+    <color name= "punch_count_today_data_value_color">#0257AC</color> 
+    <color name= "punch_count_avg_data_value_color">#00DEFF</color> 
+    <color name= "punch_count_total_data_value_color">#EE283C</color>
+
+    <color name= "punch_cout_today_graph_fill_color">#091b2a</color>
+    <color name= "punch_count_avg_graph_fill_color">#082831</color>
+    <color name= "punch_count_total_graph_fill_color">#221520</color>
+
+    <color name= "latest_result_max_speed">#92132f</color>
+    <color name= "latest_result_redundant_shortcut_btns">#b8731e</color>
+
+    <color name="punch_stat_righhand_text_color">#B8711C</color>
+    <color name="punch_stat_lefthand_text_color">#02bec7</color>
+    <color name="punch_stat_force_digit_color">#00f4ff</color>
+    <color name="punch_stat_speed_digit_color">#ed1b48</color>
+	<color name="punch_stat_punch_type_color">#F7941E</color> 			<!-- DUPLICATE COLOR -->
+	<color name="punch_stat_punch_speed_color">#92132f</color>
+	<color name="punch_stat_punch_force_color">#00979e</color> 
+		
+	<color name= "progress_screen_speed_color">#92132F</color>
+    <color name= "result_screen_total_strike_value_color">#00A2FF</color>
+    <color name="force_text_color">#00ffba</color>
+    
+    <color name="login_screen_register_text_color">#09878d</color>
+    <color name="login_screen_place_holder_color">#033643</color>
+    <color name="punch_stats_left_hand_small_divider">#057c80</color>
+    <color name="punch_stats_right_hand_small_divider">#764d1a</color>
+    
+    <color name="bag_training_speed_text_color">#e64c4c</color>
+    <color name="bag_training_force_text_color">#00ffba</color>
+    <color name="bag_training_punch_type_text_color">#53d9ff</color>
+    <color name="punch_history_force_graph_fill_color">#066D58</color>
+    <color name="punch_history_speed_graph_fill_color">#5B2A30</color>
+    <color name="punch_history_force_graph_bg_color">#093031</color>
+    <color name="punch_history_speed_graph_bg_color">#201F27</color>
+    
+     <!-- New Colors -->
+    <color name="header_text_color_blue">#29f7ff</color>
+    <color name="speed_text_color">#e64c4c</color>
+    
+    <color name="calendar_speed_red">#e64c4c</color>
+    <color name="calendar_force_green">#00ffba</color>
+    
+    <color name="media_link_select_effect_image">#23C1F1</color>
+    <color name="registration_subtitle_text_color">#2e7d93</color>    
+
+    <color name="mmaglove_device_list_color">#122d35</color>
+    <color name="caldroid_transparent">#00000000</color>
+</resources>

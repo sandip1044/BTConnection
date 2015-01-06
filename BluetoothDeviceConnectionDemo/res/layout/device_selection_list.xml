@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/caldroid_transparent"
+    android:orientation="vertical" >
+
+    <RadioButton
+        android:id="@+id/deviceNameID"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/caldroid_transparent"
+        android:button="@null"
+        android:drawableLeft="@drawable/rediobtn_selector"
+        android:drawablePadding="@dimen/mmaglove_device_list_radio_button_drawable_padding"
+        android:layout_marginBottom="@dimen/mmaglove_device_list_radio_button_margin_bottom_top"
+        android:layout_marginTop="@dimen/mmaglove_device_list_radio_button_margin_bottom_top"
+        android:onClick="onBlueToothDeviceRadioButtonClicked"
+        android:textColor="@color/white"
+        android:textSize="@dimen/mmaglove_device_list_radio_button_text_size" />
+
+</LinearLayout>
